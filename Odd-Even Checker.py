@@ -1,0 +1,20 @@
+import time as t
+print("Welcome to O-E checker.")
+t.sleep(1.5)
+print("Can't you do this simple thing by your own?😒")
+t.sleep(2)
+print("Anyways!")
+t.sleep(1.25)
+a = int(input("Enter your number = "))
+print("Hold On....")
+t.sleep(3)
+if a%2==0:
+    print("Your number", a ,"is Even")
+else:
+    print("Your number", a ,"is Odd")
+t.sleep(2)
+print("Next time try to do thing on your own!🤨")
+t.sleep(0.8)
+print("Just Kidding!")
+t.sleep(0.9)
+print("Thank You for using me. \nHave a Great Day!")
